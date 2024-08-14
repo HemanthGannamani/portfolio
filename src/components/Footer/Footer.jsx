@@ -21,11 +21,12 @@ const Footer = () => {
         </div>
         <hr />
         <div className="footer-bottom">
-            <p>© 2024 Hemanth. All rights reserved.</p>
+        <p>© 2024 Hemanth. All rights reserved.</p>  
             <div className="footer-bottom-right">
                 <p>Term of Services</p>
                 <p>Privacy Policy</p>
                 <p>Connect with me</p>
+                
             </div>
         </div>
     </div>

@@ -40,7 +40,7 @@
     .projects-title h1{
         font-size: 50px;
         padding: 0;
-        margin-left: -250px;
+        margin-left: -110px;
     }
     .projects-title img{
         width: 130px;
@@ -50,16 +50,18 @@
         height: 1px;   
     }
     .project1 h2{
-        margin-left: 25px;
+        margin-left: 75px;
         margin-right: -350px;
     }
     .project1 p{
-        margin-left: 25px; 
+        margin-left: 75px;
+        margin-right: 50px; 
     }
     .project1 img{
-        margin-left: 25px;
+        margin-left: 75px;
+        width: 400px;
     } 
     .project1 a{
-        margin-left: 25px;
+        margin-left: 105px;
     } 
  }
